@@ -1,0 +1,9 @@
+{
+  "id": "ripley-guard-ts",
+  "name": "Ripley Guard (TypeScript)",
+  "category": "guards",
+  "tagline": "Industrial-grade Monero payment gating for modern APIs. IETF-compliant, 0-conf enabled, and built for the sovereign internet.",
+  "status": "Production",
+  "github": "https://github.com/KYC-rip/ripley-guard-ts",
+  "author": "KYC.rip"
+}
