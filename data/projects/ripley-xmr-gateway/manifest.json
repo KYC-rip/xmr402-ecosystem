@@ -1,8 +1,8 @@
 {
   "id": "ripley-xmr-gateway",
   "name": "Ripley",
-  "category": "guards",
-  "tagline": "The reference implementation for XMR402 Guards, focused on Anti-KYC routing.",
+  "category": "agent-skills",
+  "tagline": "The reference implementation for XMR402 Agent skills, focused on Anti-KYC routing.",
   "status": "Mainnet Live",
   "url": "https://kyc.rip/ripley",
   "github": "https://github.com/KYC-rip/ripley-xmr-gateway",
