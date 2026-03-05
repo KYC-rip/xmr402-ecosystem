@@ -1,0 +1,135 @@
+{
+  "categories": [
+    {
+      "id": "guards",
+      "name": "Guards",
+      "description": "Middlewares that enforce the 402 challenge and verify 0-conf (e.g., Ripley)."
+    },
+    {
+      "id": "gateways",
+      "name": "Gateways",
+      "description": "Commercial entry points providing XMR402 payment rails."
+    },
+    {
+      "id": "agent-skills",
+      "name": "Agent Skills",
+      "description": "Toolkits that give AI Agents the ability to pay (e.g., Monero-MCP)."
+    },
+    {
+      "id": "services",
+      "name": "Services",
+      "description": "Services that provide XMR402 payment rails (e.g., XMR402.org)."
+    },
+    {
+      "id": "wallets",
+      "name": "Wallets",
+      "description": "Wallets that support XMR402 (e.g., Ripley Terminal)."
+    },
+    {
+      "id": "tools",
+      "name": "Tools",
+      "description": "Other tools that help with XMR402 (e.g., XMR402 CLI)."
+    },
+    {
+      "id": "misc",
+      "name": "Misc",
+      "description": "Other projects that are relevant to XMR402 (e.g., XMR402.org)."
+    }
+  ],
+  "featured_ids": [
+    "ripley-terminal",
+    "molt-production"
+  ],
+  "projects": [
+    {
+      "id": "claw-apis",
+      "name": "ClawAPIs",
+      "category": "gateways",
+      "tagline": "Professional API gateway integration for machine-to-machine economies.",
+      "status": "Planning",
+      "url": "https://clawapis.com",
+      "author": "@SteveMoraco",
+      "logo_url": "https://raw.githubusercontent.com/KYC-rip/xmr402-ecosystem/main/data/projects/claw-apis/logo.png"
+    },
+    {
+      "id": "molt-production",
+      "name": "Molt Production",
+      "category": "services",
+      "tagline": "AI Music Agents powered by sovereign Monero micro-payments.",
+      "status": "Mainnet Live",
+      "url": "https://molt.productions",
+      "github": "PENDING_PR",
+      "author": "@molt_production",
+      "logo_url": "https://raw.githubusercontent.com/KYC-rip/xmr402-ecosystem/main/data/projects/molt-production/logo.png"
+    },
+    {
+      "id": "monero-mcp",
+      "name": "Monero-MCP",
+      "category": "agent-skills",
+      "tagline": "World's first MCP server for Monero with prompt-injection defense.",
+      "status": "Planning",
+      "github": "https://github.com/baltsar/monero-mcp",
+      "author": "@gustafgarnow"
+    },
+    {
+      "id": "monero-one",
+      "name": "MoneroOne",
+      "category": "wallets",
+      "tagline": "The most elegant Monero wallet for iOS. Send, receive, and store XMR with complete privacy.",
+      "status": "Planning",
+      "url": "https://monero.one/",
+      "github": "https://github.com/bwgh0/MoneroOne-public",
+      "author": "@monero_one",
+      "logo_url": "https://raw.githubusercontent.com/KYC-rip/xmr402-ecosystem/main/data/projects/monero-one/logo.png"
+    },
+    {
+      "id": "ripley-guard-go",
+      "name": "Ripley Guard (Go)",
+      "category": "guards",
+      "tagline": "Industrial-grade Monero payment gating for modern APIs. IETF-compliant, 0-conf enabled, and built for the sovereign internet.",
+      "status": "Production",
+      "github": "https://github.com/KYC-rip/ripley-guard-go",
+      "author": "@kyc_rip"
+    },
+    {
+      "id": "ripley-guard-rust",
+      "name": "Ripley Guard (Rust)",
+      "category": "guards",
+      "tagline": "Industrial-grade Monero payment gating for modern APIs. IETF-compliant, 0-conf enabled, and built for the sovereign internet.",
+      "status": "Production",
+      "github": "https://github.com/KYC-rip/ripley-guard-rust",
+      "author": "@kyc_rip"
+    },
+    {
+      "id": "ripley-guard-ts",
+      "name": "Ripley Guard (TypeScript)",
+      "category": "guards",
+      "tagline": "Industrial-grade Monero payment gating for modern APIs. IETF-compliant, 0-conf enabled, and built for the sovereign internet.",
+      "status": "Production",
+      "url": "https://kyc.rip/guard",
+      "github": "https://github.com/KYC-rip/ripley-guard-ts",
+      "author": "@kyc_rip"
+    },
+    {
+      "id": "ripley-terminal",
+      "name": "Ripley Terminal",
+      "category": "wallets",
+      "tagline": "The first self-custodial Monero vault with a native AI Agent Gateway. Built-in Tor routing, cross-chain Ghost Sends, and secure RPC uplink for autonomous financial agency with zero footprint.",
+      "status": "Mainnet Live",
+      "url": "https://kyc.rip/wallet",
+      "github": "https://github.com/KYC-rip/ripley-terminal",
+      "author": "@kyc_rip",
+      "logo_url": "https://raw.githubusercontent.com/KYC-rip/xmr402-ecosystem/main/data/projects/ripley-terminal/logo.png"
+    },
+    {
+      "id": "ripley-xmr-gateway",
+      "name": "Ripley",
+      "category": "agent-skills",
+      "tagline": "The reference implementation for XMR402 Agent skills, focused on Anti-KYC routing.",
+      "status": "Mainnet Live",
+      "url": "https://kyc.rip/ripley",
+      "github": "https://github.com/KYC-rip/ripley-xmr-gateway",
+      "author": "@kyc_rip"
+    }
+  ]
+}
