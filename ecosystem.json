@@ -49,7 +49,7 @@
       "status": "Production",
       "url": "https://clawapis.com",
       "author": "@SteveMoraco",
-      "logo_url": "https://raw.githubusercontent.com/KYC-rip/xmr402-ecosystem/main/data/projects/claw-apis/logo.png"
+      "logo_url": "https://raw.githubusercontent.com/xmr402/ecosystem/main/data/projects/claw-apis/logo.png"
     },
     {
       "id": "molt-production",
@@ -60,7 +60,7 @@
       "url": "https://molt.productions",
       "github": "PENDING_PR",
       "author": "@molt_production",
-      "logo_url": "https://raw.githubusercontent.com/KYC-rip/xmr402-ecosystem/main/data/projects/molt-production/logo.png"
+      "logo_url": "https://raw.githubusercontent.com/xmr402/ecosystem/main/data/projects/molt-production/logo.png"
     },
     {
       "id": "monero-mcp",
@@ -80,7 +80,7 @@
       "url": "https://monero.one/",
       "github": "https://github.com/bwgh0/MoneroOne-public",
       "author": "@monero_one",
-      "logo_url": "https://raw.githubusercontent.com/KYC-rip/xmr402-ecosystem/main/data/projects/monero-one/logo.png"
+      "logo_url": "https://raw.githubusercontent.com/xmr402/ecosystem/main/data/projects/monero-one/logo.png"
     },
     {
       "id": "ripley-guard-go",
@@ -119,7 +119,7 @@
       "url": "https://kyc.rip/wallet",
       "github": "https://github.com/KYC-rip/ripley-terminal",
       "author": "@kyc_rip",
-      "logo_url": "https://raw.githubusercontent.com/KYC-rip/xmr402-ecosystem/main/data/projects/ripley-terminal/logo.png"
+      "logo_url": "https://raw.githubusercontent.com/xmr402/ecosystem/main/data/projects/ripley-terminal/logo.png"
     },
     {
       "id": "ripley-xmr-gateway",
